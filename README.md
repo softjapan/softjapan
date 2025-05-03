@@ -4,8 +4,8 @@
   <a href="https://github.com/softjapan">
     <img src="https://img.shields.io/static/v1?label=Status&message=Active&color=brightgreen&style=flat-square" alt="Status: Active" />
   </a>
-  <a href="https://twitter.com/softbasejp">
-    <img src="https://img.shields.io/twitter/follow/softbasejp?label=Twitter&style=flat-square" alt="Twitter: @softbasejp" />
+  <a href="https://twitter.com/fullstack_se">
+    <img src="https://img.shields.io/twitter/follow/fullstack_se?label=Twitter&style=flat-square" alt="Twitter: @fullstack_se" />
   </a>
   <a href="mailto:softjapan@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email: softjapan@outlook.com" />
