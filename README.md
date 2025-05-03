@@ -15,14 +15,18 @@
 ---
 
 ## ⚡ About Me
-- **フルスタックエンジニア**  
-  フロントエンド、バックエンド、インフラまで幅広く対応可能
-- **クラウドインフラ** : AWS | ECS | K8s | Docker Swarm | Rocky Linux  
-  設計から構築・運用まで、信頼性とスケーラビリティを重視したソリューションを提供
-- **フロントエンド** : Flutter | Swift | React.js | Tailwind CSS  
-  UI/UX を意識したモダンでスピーディーな開発に情熱を注ぐ
-- **バックエンド** : Laravel | Node.js | Next.js  
-  REST / GraphQL API 設計やマイクロサービスアーキテクチャーなど多彩な経験あり
+
+- **Full-Stack Engineer based in Tokyo**  
+  フロントエンドからバックエンド、クラウドインフラまで幅広く対応しています。設計から実装・運用まで、技術全体を見渡した開発を心がけています。
+
+- **Frontend:** Flutter | Swift | React.js | Tailwind CSS  
+  ユーザー体験を意識しながら、使いやすく保守しやすいインターフェースの開発に取り組んでいます。
+
+- **Backend:** Laravel | Node.js | Next.js  
+  REST/GraphQL API の設計や認証機能、マイクロサービス構成など、要件に応じた柔軟なサーバーサイド開発に対応しています。
+
+- **Cloud & Infrastructure:** AWS | ECS | Kubernetes | Docker Swarm | Rocky Linux  
+  クラウド環境でのインフラ設計・構築・運用の経験があり、スケーラビリティや安定性を考慮した構成を意識しています。
 
 ---
 
@@ -37,7 +41,7 @@
 ---
 
 ## 🤝 How to Reach Me
-- **Twitter**: [@softbasejp](https://twitter.com/softbasejp)
+- **Twitter**: [@fullstack_se](https://twitter.com/fullstack_se)
 - **Email**: ***softjapan***@outlook.com
 
 <p align="center">
