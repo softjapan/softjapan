@@ -19,10 +19,10 @@
 - **Full-Stack Engineer based in Tokyo**  
   フロントエンドからバックエンド、クラウドインフラまで幅広く対応しています。設計から実装・運用まで、技術全体を見渡した開発を心がけています。
 
-- **Frontend:** Flutter | Swift | React.js | Tailwind CSS  
+- **Frontend:** Flutter | Swift | React.js | Next.JS  
   ユーザー体験を意識しながら、使いやすく保守しやすいインターフェースの開発に取り組んでいます。
 
-- **Backend:** Laravel | Node.js | Next.js  
+- **Backend:** Laravel | Node.js | Nest.js | Python(Flask)
   REST/GraphQL API の設計や認証機能、マイクロサービス構成など、要件に応じた柔軟なサーバーサイド開発に対応しています。
 
 - **Cloud & Infrastructure:** AWS | ECS | Kubernetes | Docker Swarm | Rocky Linux  
