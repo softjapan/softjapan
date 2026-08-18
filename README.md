@@ -28,6 +28,29 @@
 
 - **Cloud & Infrastructure Leadership:** AWS | ECS | Kubernetes | Docker Swarm | Rocky Linux  
   **クラウドネイティブアーキテクチャ**を得意とし、セキュアで弾力的なインフラ環境を構築。IaCや自動化を駆使して効率的な運用を実現。
+  
+- **AI & LLM Engineering:** LangChain | LangGraph | MCP | Ollama | LoRA/QLoRA  
+  **RAG パイプライン設計・エージェント設計・ファインチューニングから量子化・配布まで**を一貫して担当。LLM を組み込んだプロダクトを本番運用まで持っていきます。
+---
+
+## 📚 Publications & Models
+
+### 著書
+
+| **書籍** | **概要** |
+|----------|----------|
+| **Python LLM App Engineering**<br />― 組み込み・設計・最適化の全技術 | LLM を本番システムに組み込むための設計・運用技術。トークン設計、構造化出力、RAG とベクトル DB、LangGraph エージェント、MCP、コスト最適化、プロンプトインジェクション対策、LoRA/QLoRA、CI/CD まで |
+| **AI 時代の Python 入門** | AI を前提とした開発を進めるための Python の基礎と実践 |
+| **Claude Code の教科書**<br />― ターミナルから始めるエージェント駆動開発 | ターミナル上で動く AI エージェントを軸にした、エージェント駆動開発の実践手法 |
+
+### 公開モデル
+
+<a href="https://huggingface.co/softjapan/erika-ai-gguf">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20softjapan%2Ferika--ai--gguf-FFD21E?style=flat-square&logoColor=black" alt="softjapan/erika-ai-gguf" />
+</a>
+
+Qwen2-3B をベースに日本語会話向けへファインチューニングした LLM を Hugging Face で公開しています。  
+**GGUF Q8_0 (3.29GB) / Apache-2.0 / llama.cpp 対応** — データセット整備 → ファインチューニング → 量子化 → 配布までを一貫して実施。
 
 ---
 
